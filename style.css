@@ -215,10 +215,19 @@ transition: all .3s ease;
     line-height: 86px;
     font-size: 65px;
 }
+	.header 
+	{
+		    padding: 40px 0 150px 0;
+	}
     .title {
     font-size: 25px;
     line-height: 37px;
+    text-align: center;
     }
+	.button {
+    line-height: 120px;
+		margin-left: 75px;
+	}
     .icon {
     font-size: 34px;
     margin: 0px 19px
